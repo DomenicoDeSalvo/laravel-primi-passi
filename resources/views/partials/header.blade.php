@@ -1,5 +1,4 @@
 <header>
-  <div class="conatiner">
     <nav>
       <ul>
         <li>
@@ -13,5 +12,4 @@
         </li>
       </ul>
     </nav>
-  </div>
 </header>
