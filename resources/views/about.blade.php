@@ -6,6 +6,7 @@
         <title>About</title>
     </head>
     <body>
+        @include('partials.header')
         <h1>Hello About</h1>
     </body>
 </html>
